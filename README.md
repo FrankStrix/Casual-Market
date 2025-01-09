@@ -46,7 +46,7 @@ Here is an overview of the repository structure:
 
 ### 1. install Java:
 
-You can download Java from the official [website]([https://nixos.org/](https://www.java.com/en/download/)).
+You can download Java from the official [website](https://www.java.com/en/download/).
 Follow the installation guide and then go to the next step.
 
 ### 2. Clone this Repository:
